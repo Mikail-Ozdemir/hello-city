@@ -15,7 +15,7 @@
 
 
 <footer>
-    <p>&copy; Copyright 2021 &middot; <a href="/about-us">About Us</a></p>
+    <p>&copy; Copyright {{ date('Y') }} &middot; </a></p>
 </footer>
 </body>
 </html>
