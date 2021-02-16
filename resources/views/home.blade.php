@@ -13,7 +13,7 @@
         <p>It's currently {{ date('h:i A') }}.</p>
 
     <footer>
-        <p>&copy; Copyright 2021 &middot; <a href="#">About Us</a></p>
+        <p>&copy; Copyright 2021 &middot; <a href="/about-us">About Us</a></p>
     </footer>
     </body>
 </html>
