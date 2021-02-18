@@ -6,6 +6,8 @@
 
 
 @section('content')
+    <img src="/images/tdn-logo.png" alt="TDN logo">
+
     <p>Built with &hearts; by LES TEACHERS DU NET. </p>
 
     <p><a href="{{'/'}}">Revenir à la page d'accueil</a></p>
